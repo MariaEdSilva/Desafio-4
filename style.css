@@ -1,0 +1,19 @@
+body {
+    background-color: #3b5a44;
+    color: white;
+}
+
+.tabela {
+    border-collapse: collapse;
+    width: 90%;
+}
+
+.celula, .linha {
+    border: 2px solid #ffffff;
+    padding: 8px;
+    text-align: left;
+}
+
+.celula {
+    background-color: #384e3e;
+}
